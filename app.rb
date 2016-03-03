@@ -4,5 +4,5 @@ set :bind, '0.0.0.0'
 set :port, 8080
 
 get '/' do
-  "Hello World, I'm a Ruby App"
+  "Hello World, I'm a Ruby App...version 2"
 end
