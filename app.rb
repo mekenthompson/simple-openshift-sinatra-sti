@@ -4,5 +4,5 @@ set :bind, '0.0.0.0'
 set :port, 8080
 
 get '/' do
-  "Testing rolling update"
+  "New rolling update with Kelvin"
 end
